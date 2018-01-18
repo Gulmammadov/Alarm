@@ -1,0 +1,9 @@
+E:\MPD_20172018\20171025Win_Alarm_v2\20171025Win_Alarm_v2\bin\Debug\20171025Win_Alarm_v2.exe.config
+E:\MPD_20172018\20171025Win_Alarm_v2\20171025Win_Alarm_v2\bin\Debug\20171025Win_Alarm_v2.exe
+E:\MPD_20172018\20171025Win_Alarm_v2\20171025Win_Alarm_v2\bin\Debug\20171025Win_Alarm_v2.pdb
+E:\MPD_20172018\20171025Win_Alarm_v2\20171025Win_Alarm_v2\obj\Debug\20171025Win_Alarm_v2.csprojResolveAssemblyReference.cache
+E:\MPD_20172018\20171025Win_Alarm_v2\20171025Win_Alarm_v2\obj\Debug\_20171025Win_Alarm_v2.Form1.resources
+E:\MPD_20172018\20171025Win_Alarm_v2\20171025Win_Alarm_v2\obj\Debug\_20171025Win_Alarm_v2.Properties.Resources.resources
+E:\MPD_20172018\20171025Win_Alarm_v2\20171025Win_Alarm_v2\obj\Debug\20171025Win_Alarm_v2.csproj.GenerateResource.Cache
+E:\MPD_20172018\20171025Win_Alarm_v2\20171025Win_Alarm_v2\obj\Debug\20171025Win_Alarm_v2.exe
+E:\MPD_20172018\20171025Win_Alarm_v2\20171025Win_Alarm_v2\obj\Debug\20171025Win_Alarm_v2.pdb
